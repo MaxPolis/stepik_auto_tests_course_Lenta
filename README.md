@@ -1,1 +1,1 @@
-# stepik_auto_tests_course_Lenta
+# stepik_auto_tests_homework
